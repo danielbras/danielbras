@@ -14,7 +14,10 @@
   <!-- Base -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  <!-- Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="45" height="40"/>
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="41" height="41"/>
   <!-- Database -->
@@ -29,7 +32,6 @@
   <!-- Others Tools --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="45" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" heigth="39"/>
-  
 </div>
 
 ---
