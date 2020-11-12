@@ -1,14 +1,14 @@
-### Hi, I'm Carlos Daniel
+### Hi, I'm Carlos Daniel 👋
 
-**I am a student of Systems Analysis and Development at UFRN. Enthusiast of web development technologies 👨‍💻 <br/> Trying to focus on learning one thing at a time amid so many incredible technologies** 🤯
-
-> "The successful warrior is the common man, with a laser focus." - Bruce Lee
-
-💻 Currently learning:
+**I am a student of Systems Analysis and Development at UFRN. Enthusiast of web development technologies 👨‍💻 <br/> Trying to focus on learning one thing at a time amid so many incredible technologies** 🤯 <br/>
+ 
+💻 **Currently learning:**
 <img src="https://avatars0.githubusercontent.com/u/317776?s=200&v=4" width="19"/> <b> Spring Boot</b>,
 <img src="https://avatars0.githubusercontent.com/u/1492367?s=200&v=4" width="19"/> <b> Thymeleaf</b>
+<br/>
+<br/>
 
-#### ⚙ Languages and Tools
+### ⚙ Languages and Tools
 
 <div>
   <!-- Base -->
